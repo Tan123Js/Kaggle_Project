@@ -20,3 +20,11 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Future Work
 This portfolio will continue to grow as I complete more data analytics projects and explore new datasets.
+
+## Full Analysis
+The complete analysis and methodology are available in the Jupyter Notebook (.ipynb).
+
+## Notes
+AI tools were used during the development process to assist with coding and learning.
+
+If you find this project interesting, feel free to connect with me on LinkedIn.
