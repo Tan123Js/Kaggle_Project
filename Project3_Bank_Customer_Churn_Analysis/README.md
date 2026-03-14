@@ -25,6 +25,9 @@ The bank can proactively identify high-risk customers before churn occurs, allow
 **Strategic Recommendation**
 
 1.**Targeted Retention Campaigns**: Focus on mid-aged, multi-product, low-activity customers. 
+
 2.**Enhance Engagement Programs**: Incentivize account activity and loyalty to reduce churn probability. 
+
 3.**Regional Resource Allocation**: Prioritize retention efforts in Germany, the highest-risk region. 
+
 4.**Dynamic Probability Thresholding**: Adjust thresholds to capture additional potential churners efficiently.
